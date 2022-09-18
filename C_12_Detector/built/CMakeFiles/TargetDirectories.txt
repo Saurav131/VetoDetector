@@ -1,0 +1,8 @@
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/install/strip.dir
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/install/local.dir
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/install.dir
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/list_install_components.dir
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/rebuild_cache.dir
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/edit_cache.dir
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/B1.dir
+/home/saurav/Documents/work_dir/C_12_Detector/built/CMakeFiles/exampleB1.dir

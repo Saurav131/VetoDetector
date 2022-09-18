@@ -1,0 +1,16 @@
+# Macro file for example B1
+# 
+# To be run preferably in batch, without graphics:
+# % exampleB1 run2.mac
+#
+#/run/numberOfThreads 4
+/run/initialize
+#
+/control/verbose 2
+/run/verbose 2
+
+#10MeV per nucleon
+#/gun/particle ion
+#/gun/ion 6 12 0 0
+#/gun/energy 120 MeV
+/run/beamOn 1000
