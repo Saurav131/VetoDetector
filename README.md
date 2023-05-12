@@ -1,9 +1,10 @@
 # Back_Scattering
-A geant4 simulation for measuring Back_Scattering in C_12
+Geant4 simulation of the response of a veto detector with various beam energies for the measurement of 
+charge-changing cross-section (CCCS) of 12C on a carbon target
 
 
-- 👋 Hi, I’m Saurav Mittal ,a humble masters student with a lot to learn.
-- 👀 I’m interested in becoming a gravitaional waves , nuclear physics ,particle physics and lots of other things.
+- 👋 Hi, I’m Saurav Mittal ,a physics student with an engineering degree.
+- 👀 I want to work in high energy physics and nuclear physics.
 - 🌱 I’m currently learning deep learning , PyCBC and Geant4 simulation.
 - 💞️ I’m looking to collaborate on Gravitaional waves project , Nuclear projects or any other project you have in mind.
 - 📫 How to reach me Sauravmittal131@gmail.com.
