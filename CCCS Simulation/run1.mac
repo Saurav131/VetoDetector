@@ -1,0 +1,12 @@
+
+/run/initialize
+/gun/energy 1200 MeV
+/run/beamOn 25000
+
+/run/initialize
+/gun/energy 3600 MeV
+/run/beamOn 25000
+
+/run/initialize
+/gun/energy 7200 MeV
+/run/beamOn 25000
