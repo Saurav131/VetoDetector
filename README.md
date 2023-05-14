@@ -1,4 +1,4 @@
-# Back_Scattering
+# Charge changing cross section measurements.
 Geant4 simulation of the response of a veto detector with various beam energies for the measurement of 
 charge-changing cross-section (CCCS) of 12C on a carbon target
 
