@@ -5,9 +5,10 @@ charge-changing cross-section (CCCS) of 12C on a carbon target
 
 - 👋 Hi, I’m Saurav Mittal ,a physics student with an engineering degree.
 - 👀 I want to work in high energy physics and nuclear physics.
-- 🌱 I’m currently learning deep learning , PyCBC and Geant4 simulation.
-- 💞️ I’m looking to collaborate on Gravitaional waves project , Nuclear projects or any other project you have in mind.
+- I’m looking to collaborate on Gravitaional waves project , Nuclear projects or any other project you have in mind.
 - 📫 How to reach me Sauravmittal131@gmail.com.
+- The CCCS simulation folder have the Geant4 repository.
+- The Graphs folder contain code to analyse data using CERN ROOT.
 
 <!---
 Saurav131/Saurav131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
