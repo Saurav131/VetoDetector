@@ -6,6 +6,7 @@ charge-changing cross-section (CCCS) of 12C on a carbon target
 - 👋 Hi, I’m Saurav Mittal ,a physics student with an engineering degree.
 - 👀 I work in high energy physics.
 - I’m looking to collaborate on Computational and ML projects, Hep project.
+- Some additional files are needed to run the simulation. Contant me through email.
 - 📫 How to reach me Sauravmittal131@gmail.com.
 - The CCCS simulation folder have the Geant4 repository.
 - The Graphs folder contain code to analyse data using CERN ROOT.
