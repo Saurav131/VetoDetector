@@ -1,6 +1,6 @@
 # Geant4 Simulation of a Veto Detector for Charge-Changing Cross-Section Measurements
 
-A computational nuclear physics project investigating the response of a veto detector for measuring the charge-changing cross section (CCCS) of carbon-12 (^12C) beams incident on a carbon target.
+A computational nuclear physics project investigating the response of a veto detector for measuring the charge-changing cross section (CCCS) of carbon-12 beams incident on a carbon target.
 
 Developed as an M.Sc. Physics thesis at **IIT (ISM) Dhanbad (2023)**, this project uses Geant4 to simulate particle transport, detector energy deposition, and the effect of veto selection on charge-changing cross-section measurements.
 
